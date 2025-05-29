@@ -2,7 +2,7 @@ import React from "react";
 import TextPrompt from "./TextPrompt";
 
 export default function Profile() { 
-    {/* TODO (1): height of each textprompt component*/}
+    {/* TODO (1): work on image component, swiping func*/}
     return (
         <div className="flex flex-col items-center justify-center bg-gray-100 ">
             <TextPrompt
