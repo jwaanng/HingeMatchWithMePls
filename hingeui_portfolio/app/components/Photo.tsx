@@ -12,7 +12,7 @@ export default function Photo({ photo, desc }: PhotoProp) {
             <img
                 src={photo}
                 alt="Photo"
-                className="rounded-lg w-full h-full object-cover transition-opacity duration-300 group-hover:opacity-75"
+                className="rounded-lg w-full h-full object-cover aspect-square"
             />
             {desc && (
                 <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-60 transition-opacity duration-300 bg-black bg-opacity-50 rounded-lg">
