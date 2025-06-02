@@ -44,7 +44,7 @@ export default function Profile() {
                 question="My greatest strength"
                 answer={<> Collaborative, sometimes creative, kind. <br /> <br />
                 Matchmaker (3 successful couples so far!) <br /> <br />
-                Chat with me to learn more :)
+                Chat with me to learn more !
               </>}
             />
 

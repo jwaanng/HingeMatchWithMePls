@@ -2,7 +2,7 @@ import React from "react";
 
 interface TextPromptProps {
     question: string;
-    answer: string;
+    answer: string | React.ReactNode; 
 }
 
 export default function TextPrompt({ question, answer }: TextPromptProps) {
