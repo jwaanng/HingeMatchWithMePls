@@ -27,7 +27,7 @@ export default function Profile() {
             />
 
             <Photo
-                photo="/hackathon_winning_proj.jpg"  
+                photo="/hackathon_winning_proj.JPG"  
                 desc="Hackathon winning project: Virtual Clothing Try-On"       
             />
 
